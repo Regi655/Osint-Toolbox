@@ -1,0 +1,13 @@
+# Batch output and local target lists (keep real investigations out of git)
+out/
+osint-out/
+targets.txt
+*.report.md
+report-*.md
+
+# Local mosint config (may contain API keys)
+.mosint.yaml
+
+# Python
+__pycache__/
+*.pyc

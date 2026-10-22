@@ -1,0 +1,9 @@
+# Example target list for batch mode.
+# One target per line. A line containing '@' is treated as an email,
+# otherwise as a username. Blank lines and lines starting with '#' are ignored.
+#
+# Replace these with your OWN accounts, or targets you are authorized to assess.
+
+alice
+bob_dev
+someone@example.com
